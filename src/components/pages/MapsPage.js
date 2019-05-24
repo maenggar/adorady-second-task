@@ -10,9 +10,9 @@ class  MapsPage extends React.Component{
                 <MDBRow>
                     <MDBCol md="6">
                         <MDBCard className="mt-5">
-                            <MDBView className="gradient-card-header blue darken-2">
+                            <MDBView className="gradient-card-header dusty-grass-gradient">
                                 <h4 className="h4-responsive text-white">
-                                    Regular map
+                                    Using Leaflet.JS
                                 </h4>
                             </MDBView>
                             <MDBCardBody style={{width: '100%', height: '300px'}} className="text-center">
@@ -22,9 +22,9 @@ class  MapsPage extends React.Component{
                     </MDBCol>
                     <MDBCol md="6">
                         <MDBCard className="mt-5">
-                            <MDBView className="gradient-card-header blue darken-2">
+                            <MDBView className="gradient-card-header dusty-grass-gradient">
                                 <h4 className="h4-responsive text-white">
-                                    Hybrid map
+                                    Using Leaflet.JS
                                 </h4>
                             </MDBView>
                             <MDBCardBody style={{width: '100%', height: '300px'}} className="text-center">
@@ -36,9 +36,9 @@ class  MapsPage extends React.Component{
                 <MDBRow>
                     <MDBCol md="6">
                         <MDBCard className="mt-5">
-                            <MDBView className="gradient-card-header blue darken-2">
+                            <MDBView className="gradient-card-header dusty-grass-gradient">
                                 <h4 className="h4-responsive text-white">
-                                    Satellite map
+                                    Using Leaflet.JS
                                 </h4>
                             </MDBView>
                             <MDBCardBody style={{width: '100%', height: '300px'}} className="text-center">
@@ -48,9 +48,9 @@ class  MapsPage extends React.Component{
                     </MDBCol>
                     <MDBCol md="6">
                         <MDBCard className="mt-5">
-                            <MDBView className="gradient-card-header blue darken-2">
+                            <MDBView className="gradient-card-header dusty-grass-gradient">
                                 <h4 className="h4-responsive text-white">
-                                    Terrain map
+                                    Using Leaflet.JS
                                 </h4>
                             </MDBView>
                             <MDBCardBody style={{width: '100%', height: '300px'}} className="text-center">

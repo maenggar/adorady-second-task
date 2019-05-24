@@ -5,7 +5,7 @@ const AdminCardSection2 = () => {
   return (
     <MDBRow className="mb-4">
         <MDBCol xl="3" md="6" className="mb-3">
-          <MDBCard color="primary-color" className="classic-admin-card">
+          <MDBCard className="classic-admin-card blue-gradient">
             <MDBCardBody>
               <div className="float-right">
               <MDBIcon far icon="money-bill-alt"/>
@@ -22,7 +22,7 @@ const AdminCardSection2 = () => {
           </MDBCard>
         </MDBCol>
         <MDBCol xl="3" md="6" className="mb-3">
-          <MDBCard color="warning-color" className="classic-admin-card">
+          <MDBCard className="classic-admin-card peach-gradient">
             <MDBCardBody>
               <div className="float-right">
               <MDBIcon icon="chart-line"/>
@@ -39,7 +39,7 @@ const AdminCardSection2 = () => {
           </MDBCard>
         </MDBCol>
         <MDBCol xl="3" md="6" className="mb-3">
-          <MDBCard color="primary-color" className="classic-admin-card">
+          <MDBCard className="classic-admin-card purple-gradient">
             <MDBCardBody>
               <div className="float-right">
               <MDBIcon icon="chart-pie"/>
@@ -56,7 +56,7 @@ const AdminCardSection2 = () => {
           </MDBCard>
         </MDBCol>
         <MDBCol xl="3" md="6" className="mb-3">
-          <MDBCard color="red accent-2" className="classic-admin-card">
+          <MDBCard className="classic-admin-card young-passion-gradient">
             <MDBCardBody>
               <div className="float-right">
               <MDBIcon icon="chart-bar"/>
