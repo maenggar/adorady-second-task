@@ -11,7 +11,7 @@ const BreadcrumSection = () => {
             </MDBBreadcrumb>
             <MDBFormInline className="md-form m-0">
                 <input className="form-control form-control-sm" type="search" placeholder="Type your query" aria-label="Search"/>
-                <MDBBtn size="sm" color="primary" className="my-0" type="submit"><MDBIcon icon="search" /></MDBBtn>
+                <MDBBtn size="sm" className="my-0 dusty-grass-gradient" type="submit"><MDBIcon icon="search" /></MDBBtn>
             </MDBFormInline>
         </MDBCardBody>
     </MDBCard>
