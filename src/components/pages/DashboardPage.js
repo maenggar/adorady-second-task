@@ -5,6 +5,7 @@ import AdminCardSection2 from './sections/AdminCardSection2';
 import BreadcrumSection from './sections/BreadcrumSection';
 import ChartSection1 from './sections/ChartSection1';
 import ChartSection2 from './sections/ChartSection2';
+import Map from "./Map";
 
 
 const DashboardPage = () => {
