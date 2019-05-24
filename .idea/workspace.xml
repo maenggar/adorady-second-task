@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="269a3461-4bd1-46f8-bca1-a1bb8ab9b8e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/sections/AdminCardSection1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/sections/AdminCardSection1.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,10 +60,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/pages/sections/BreadcrumSection.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="336">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/pages/sections/AdminCardSection1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="69" column="67" selection-start-line="69" selection-start-column="67" selection-end-line="69" selection-end-column="67" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -86,11 +99,12 @@
         <option value="$PROJECT_DIR$/src/components/pages/Map.js" />
         <option value="$PROJECT_DIR$/src/components/Footer.js" />
         <option value="$PROJECT_DIR$/src/components/pages/sections/AdminCardSection2.js" />
-        <option value="$PROJECT_DIR$/src/components/pages/sections/AdminCardSection1.js" />
         <option value="$PROJECT_DIR$/src/components/pages/MapsPage.js" />
         <option value="$PROJECT_DIR$/src/components/sideNavigation.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/components/topNavigation.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/sections/BreadcrumSection.js" />
+        <option value="$PROJECT_DIR$/src/components/pages/sections/AdminCardSection1.js" />
       </list>
     </option>
   </component>
@@ -196,12 +210,12 @@
       <workItem from="1558591438296" duration="1562000" />
       <workItem from="1558597278068" duration="204000" />
       <workItem from="1558610624106" duration="9752000" />
-      <workItem from="1558662029747" duration="5769000" />
+      <workItem from="1558662029747" duration="6441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17083000" />
+    <option name="totallyTimeSpent" value="17755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1360" height="692" extended-state="6" />
@@ -314,16 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/pages/sections/AdminCardSection1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="66" column="47" selection-start-line="66" selection-start-column="47" selection-end-line="66" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/pages/DashboardPage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -363,7 +367,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/pages/sections/BreadcrumSection.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="336">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/sections/AdminCardSection1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="69" column="67" selection-start-line="69" selection-start-column="67" selection-end-line="69" selection-end-column="67" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

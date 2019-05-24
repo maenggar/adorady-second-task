@@ -7,7 +7,7 @@ const AdminCardSection1 = () => {
         <MDBCol xl="3" md="6" className="mb-r">
           <MDBCard className="cascading-admin-card">
               <div className="admin-up">
-              <MDBIcon icon="users" className="blue-gradient"/>
+              <MDBIcon icon="users" className="dusty-grass-gradient"/>
                 <div className="data">
                   <p>BUDI HARTONO</p>
                   <h4>
@@ -27,7 +27,7 @@ const AdminCardSection1 = () => {
         <MDBCol xl="3" md="6" className="mb-r">
           <MDBCard className="cascading-admin-card">
               <div className="admin-up">
-              <MDBIcon icon="users" className="peach-gradient"/>
+              <MDBIcon icon="users" className="dusty-grass-gradient"/>
                 <div className="data">
                   <p>ALAN WALKER</p>
                   <h4>
@@ -47,7 +47,7 @@ const AdminCardSection1 = () => {
         <MDBCol xl="3" md="6" className="mb-r">
           <MDBCard className="cascading-admin-card">
               <div className="admin-up">
-              <MDBIcon icon="users" className="purple-gradient"/>
+              <MDBIcon icon="users" className="dusty-grass-gradient"/>
                 <div className="data">
                   <p>RIYANTI</p>
                   <h4>
@@ -67,7 +67,7 @@ const AdminCardSection1 = () => {
         <MDBCol xl="3" md="6" className="mb-r">
           <MDBCard className="cascading-admin-card">
               <div className="admin-up">
-              <MDBIcon icon="users" className="young-passion-gradient"/>
+              <MDBIcon icon="users" className="dusty-grass-gradient"/>
                 <div className="data">
                   <p>ARIEL WAROUCH</p>
                   <h4>
